@@ -1,11 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jas Esperanza Hollis"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a senior at Yale University pursuing a B.S. in atmosphere, ocean, and climate dynamics. I have worked on projects related to Arctic Ocean properties, cloud physics, and Southern Ocean sea ice and water mass transformation. After finishing my undergraduate degree, I plan to follow these interests and pursue a PhD in atmospheric science and oceanography. I'm especially interested in convective storm dynamics, polar processes, and teleconnections. I am passionate about understanding different aspects of the climate system, the mechanisms through which they connect, and the changes we can expect in future years. I hope to integrate these research interests with meaningful work in climate solutions.
+
+Outside of academics, I’m very interested in languages and have achieved a conversational level in French and Mandarin Chinese. Additionally, I have served as the business manager for my a cappella group on campus in my free time. Finally, I work as a Gallery Attendant at the Yale Peabody Museum.
+
+Broadly, I aim to dedicate my career to science outreach, climate justice, and contributing to our knowledge surrounding air-sea interactions and their implications.
+--------------------------------------------------------------------------------------------------
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
