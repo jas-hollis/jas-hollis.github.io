@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jas Esperanza Hollis"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
