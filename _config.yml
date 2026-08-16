@@ -23,7 +23,7 @@ repository               : "jas-hollis/jas-hollis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Spain_2025.HEIC"
+  avatar           : "Spain_2025.png"
   name             : "Jas E. Hollis"
   pronouns         : "he/they" # example: "she/her"  
   bio              : "I am a senior at Yale University pursuing a B.S. in atmosphere, ocean, and climate dynamics. It is my mission to dedicate my career to science outreach, climate justice, and studying air-sea interactions and their implications."
