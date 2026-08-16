@@ -11,4 +11,4 @@ Over the past few years, I have worked on projects related to Arctic Ocean prope
 
 Outside of academics, I’m very interested in languages and have achieved a conversational level in French and Mandarin Chinese. Additionally, I have served as the business manager for my a cappella group on campus in my free time. Finally, I work as a Gallery Attendant at the Yale Peabody Museum.
 
-Broadly, I aim to dedicate my career to science outreach, climate justice, and contributing to our knowledge surrounding air-sea interactions and their implications.
+Overall, I aim to dedicate my career to science outreach, climate justice, and contributing to our knowledge surrounding air-sea interactions and their implications.
