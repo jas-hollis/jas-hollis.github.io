@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Ireland_2025.jpeg"
+  name             : "Jas E. Hollis"
   pronouns         : "he/they" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a senior at Yale University pursuing a B.S. in atmosphere, ocean, and climate dynamics. It is my mission to dedicate my career to science outreach, climate justice, and studying air-sea interactions and their implications."
   location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
