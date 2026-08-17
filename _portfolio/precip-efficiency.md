@@ -23,3 +23,7 @@ Beyond the summer, I have continued to work on drafting an introduction to a pap
 
 ## Significance
 Although past works have explored similar topics to those discussed here and begun on derivations seeking to approximate precipitation efficiency, a fully analytic expression had not yet been demonstrated. This study builds on past work to improve our understanding of precipitation efficiency and to standardize and clarify the terminology used in its description.
+
+## Poster
+I presented this work at MIT's Summer Research Symposium to a general audience.
+[View Poster](/files/Hollis_MSRP_2025_Poster.pdf)
