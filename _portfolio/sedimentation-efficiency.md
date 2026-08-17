@@ -1,5 +1,5 @@
 ---
-title: "Approximating Precipitation Efficiency"
+title: "Approximating Sedimentation Efficiency"
 excerpt: "Deriving a simple approximation of sedimentation efficiency for a single raindrop as a function of surface relative humidity, surface air temperature, and the raindrop's radius at the LCL."
 collection: portfolio
 ---
