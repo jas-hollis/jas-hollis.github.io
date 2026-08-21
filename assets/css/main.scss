@@ -42,6 +42,9 @@
    Custom site styles
    ========================================================================== */
 
+$page-accent: #526C7A;
+
 .page__content a {
+   color: $page-accent;
   text-decoration: underline;
 }
