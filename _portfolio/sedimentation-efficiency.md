@@ -11,9 +11,11 @@ collection: portfolio
 ## Research Goal
 Derive a simple analytic approximation of sedimentation efficiency for a single raindrop as a function of surface relative humidity, surface air temperature, and the raindrop's radius at the lifted condensation level.
 
+## Simplified Sedimentation Efficiency Overview
+
 <img src="/images/precipitation_efficiency_diagram.png"
      alt="Diagram of Processes Involved in Sedimentation Efficiency"
-     style="width: 60%; height: auto; display: block; margin: 1.5em auto;">
+     style="width: 40%; height: auto; display: block; margin: 1.5em auto;">
 
 *Diagram Portraying Processes Involved in Sedimentation Efficiency; light  blue dots indicate evaporation, wavy orange lines indicate heat transfer, and vertical magenta lines represent ventilation. (Note: I have used the term precipitation efficiency as a simpler alternative for a general audience.)*
 
