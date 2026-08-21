@@ -65,10 +65,6 @@ $body-charcoal: #2C3135;
 /* ---------- HEADINGS ---------- */
 
 .page__content h2 {
-  color: $storm-deep;
-  border-bottom: 2px solid $wave-blue;
-  padding-bottom: 0.3em;
-  margin-top: 2em;
 }
 
 .page__content h3 {
@@ -144,7 +140,7 @@ $body-charcoal: #2C3135;
 
 /* ---------- RESEARCH PROJECT CARDS ---------- */
 
-.test-research-project-list .archive__item {
+.research-project-list .archive__item {
   border: 1px solid $sea-ice;
   padding: 1.5em;
   margin: 1.5em 0;
