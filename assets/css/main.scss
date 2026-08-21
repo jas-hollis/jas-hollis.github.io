@@ -65,6 +65,10 @@ $body-charcoal: #2C3135;
 /* ---------- HEADINGS ---------- */
 
 .page__content h2 {
+  color: $storm-deep;
+  border-bottom: 2px solid $wave-blue;
+  padding-bottom: 0.3em;
+  margin-top: 2em;
 }
 
 .page__content h3 {
