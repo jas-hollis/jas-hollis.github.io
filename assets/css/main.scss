@@ -54,7 +54,7 @@ $body-charcoal: #2C3135;
 /* ---------- TEXT ---------- */
 
 .page__content {
-  color: $sea-ice;
+  color: $body-charcoal;
 }
 
 .page__content p {
@@ -133,3 +133,19 @@ $body-charcoal: #2C3135;
   line-height: 1.2;
 }
 
+
+/* ----------- PROJECT METADATA BOX ----------- */
+.project-meta {
+  background: $sea-ice;
+  border-left: 4px solid $storm-slate;
+  padding: 1em 1.5em;
+  margin: 1.5em 0 2em;
+}
+
+/* ------- RESEARCH CARDS ------- */
+.research-card {
+  border: 1px solid $sea-ice;
+  padding: 1.5em;
+  margin: 1.5em 0;
+  background: #FFFFFF;
+}
