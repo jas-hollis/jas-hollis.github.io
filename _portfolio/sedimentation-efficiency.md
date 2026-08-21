@@ -14,6 +14,7 @@ Derive a simple analytic approximation of sedimentation efficiency for a single 
 <img src="/images/precipitation_efficiency_diagram.png"
      alt="Diagram of Processes Involved in Sedimentation Efficiency"
      style="width: 60%; height: auto; display: block; margin: 1.5em auto;">
+
 *Diagram Portraying Processes Involved in Sedimentation Efficiency; light  blue dots indicate evaporation, wavy orange lines indicate heat transfer, and vertical magenta lines represent ventilation. (Note: I have used the term precipitation efficiency as a simpler alternative for a general audience.)*
 
 ## Scientific Context
