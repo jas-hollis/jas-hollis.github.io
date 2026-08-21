@@ -107,3 +107,16 @@ $body-charcoal: #2C3135;
   margin: 1.5em auto;
   border-radius: 3px;
 }
+
+/* Footer */
+
+.page__footer {
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  border-top: 1px solid $sea-ice;
+}
+
+.page__footer-copyright {
+  margin: 0;
+  font-size: 0.8em;
+}
