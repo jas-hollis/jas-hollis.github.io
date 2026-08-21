@@ -42,11 +42,7 @@
    Custom site styles
    ========================================================================== */
 
-/* ==========================================================================
-   Custom site styles
-   ========================================================================== */
-
-/* Palette */
+/* ---------- COLORS ---------- */
 
 $storm-deep: #243B4A;
 $storm-slate: #526C7A;
@@ -54,24 +50,19 @@ $wave-blue: #2F6F89;
 $sea-ice: #DCE5E8;
 $body-charcoal: #2C3135;
 
-/* Main content */
+
+/* ---------- TEXT ---------- */
 
 .page__content {
   color: $body-charcoal;
 }
 
-/* Links */
-
-.page__content a {
-  color: $storm-slate;
-  text-decoration: underline;
+.page__content p {
+  line-height: 1.7;
 }
 
-.page__content a:hover {
-  color: $wave-blue;
-}
 
-/* Major section headings */
+/* ---------- HEADINGS ---------- */
 
 .page__content h2 {
   color: $storm-deep;
@@ -80,35 +71,36 @@ $body-charcoal: #2C3135;
   margin-top: 2em;
 }
 
-/* Subsection headings */
-
 .page__content h3 {
   color: $storm-slate;
-  margin-top: 1.5em;
 }
 
-/* Research project readability */
 
-.page__content p {
-  line-height: 1.7;
+/* ---------- LINKS ---------- */
+
+.page__content a {
+  color: $storm-slate;
+  text-decoration: underline;
+  transition: color 0.2s ease;
 }
 
-.page__content h2 + p,
-.page__content h3 + p {
-  margin-top: 0.75em;
+.page__content a:hover {
+  color: $wave-blue;
 }
 
-/* Images */
+
+/* ---------- IMAGES ---------- */
 
 .page__content img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 1.5em auto;
-  border-radius: 3px;
+  margin: 2em auto;
+  border-radius: 4px;
 }
 
-/* Footer */
+
+/* ---------- FOOTER ---------- */
 
 .page__footer {
   padding-top: 0.75em;
@@ -117,6 +109,5 @@ $body-charcoal: #2C3135;
 }
 
 .page__footer-copyright {
-  margin: 0;
   font-size: 0.8em;
 }
