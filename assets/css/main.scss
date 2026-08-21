@@ -142,10 +142,13 @@ $body-charcoal: #2C3135;
   margin: 1.5em 0 2em;
 }
 
-/* ------- RESEARCH CARDS ------- */
-.research-card {
+/* ---------- RESEARCH PROJECT CARDS ---------- */
+
+.research-project-list .archive__item {
   border: 1px solid $sea-ice;
   padding: 1.5em;
   margin: 1.5em 0;
   background: #FFFFFF;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(36, 59, 74, 0.08);
 }
