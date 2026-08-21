@@ -54,7 +54,7 @@ $body-charcoal: #2C3135;
 /* ---------- TEXT ---------- */
 
 .page__content {
-  color: $body-charcoal;
+  color: $sea-ice;
 }
 
 .page__content p {
@@ -73,6 +73,20 @@ $body-charcoal: #2C3135;
 
 .page__content h3 {
   color: $storm-slate;
+}
+
+/* ---------- RESEARCH PAGE PROJECT TITLE + EXCERPT SPACING ---------- */
+
+.archive__item-title {
+  margin-bottom: 0;
+}
+
+.archive__item-excerpt {
+  margin-top: 0;
+}
+
+.archive__item-title + .archive__item-excerpt {
+  margin-top: 0;
 }
 
 
@@ -103,11 +117,19 @@ $body-charcoal: #2C3135;
 /* ---------- FOOTER ---------- */
 
 .page__footer {
-  padding-top: 0.25em;
-  padding-bottom: 0.25em;
+  padding: 0.05em 0;
   border-top: 1px solid $sea-ice;
 }
 
-.page__footer-copyright {
-  font-size: 0.8em;
+.page__footer footer {
+  padding: 0;
+  margin: 0;
 }
+
+.page__footer-copyright {
+  margin: 0;
+  padding: 0;
+  font-size: 0.8em;
+  line-height: 1.2;
+}
+
