@@ -11,7 +11,7 @@ collection: portfolio
 ## Research Goal
 Derive a simple analytic approximation of sedimentation efficiency for a single raindrop as a function of surface relative humidity, surface air temperature, and the raindrop's radius at the lifted condensation level.
 
-## Simplified Sedimentation Efficiency Overview
+### Simplified Sedimentation Efficiency Overview
 
 <img src="/images/precipitation_efficiency_diagram.png"
      alt="Diagram of Processes Involved in Sedimentation Efficiency"
