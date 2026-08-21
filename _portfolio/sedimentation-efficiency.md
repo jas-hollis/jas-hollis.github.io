@@ -5,9 +5,9 @@ collection: portfolio
 ---
 
 <div class="project-meta">
-  <strong>Institution:</strong> Yale University<br>
-  <strong>Advisor:</strong> Professor Mary-Louise Timmermans<br>
-  <strong>Dates:</strong> Summer 2024
+  <strong>Institution:</strong> Massachusetts Institute of Technology<br>
+  <strong>Advisor:</strong> Professor Timothy Cronin<br>
+  <strong>Dates:</strong> Summer 2025
 </div>
 
 ## Research Goal
