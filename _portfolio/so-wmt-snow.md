@@ -4,9 +4,11 @@ excerpt: "Quantifying the contribution of snow to water-mass transformation unde
 collection: portfolio
 ---
 
-**Institution:** Caltech  
-**Advisors:** Professor Andrew Thompson, Sarah Zhang  
-**Dates:** Summer 2026  
+<div class="project-meta">
+  <strong>Institution:</strong> California Institute of Technology<br>
+  <strong>Advisors:</strong> Professor Andrew Thompson, Sarah Zhang<br>
+  <strong>Dates:</strong> Summer 2026
+</div>  
 
 ## Research Question
 How and where does snow enter the ocean? How does this impact water mass transformation? How is this impact affected by evolving sea ice extent?
