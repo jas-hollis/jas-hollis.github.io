@@ -10,6 +10,10 @@ I am interested in asking questions about convective storm dynamics, polar proce
 
 {% include base_path %}
 
+<div class="research-project-list">
+
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+
+</div>
