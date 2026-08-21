@@ -4,9 +4,11 @@ excerpt: "Deriving a simple approximation of sedimentation efficiency for a sing
 collection: portfolio
 ---
 
-**Institution:** Massachusetts Institute of Technology  
-**Advisor:** Professor Timothy Cronin  
-**Dates:** Summer 2025
+<div class="project-meta">
+  <strong>Institution:</strong> Yale University<br>
+  <strong>Advisor:</strong> Professor Mary-Louise Timmermans<br>
+  <strong>Dates:</strong> Summer 2024
+</div>
 
 ## Research Goal
 Derive a simple analytic approximation of sedimentation efficiency for a single raindrop as a function of surface relative humidity, surface air temperature, and the raindrop's radius at the lifted condensation level.
